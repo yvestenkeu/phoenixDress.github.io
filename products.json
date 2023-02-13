@@ -1,0 +1,63 @@
+[
+    {
+        "image":"dresses/homme-pantalon-de-costume-slim-.jpg",
+        "title":"products title",
+        "description":"pantalon slim pour costume homme",
+        "price/prix":"6000XAF"
+    },
+    {
+        "image":"dresses/militaire.jfif",
+        "title":"products title",
+        "description":"pantalon millitaire pour homme",
+        "price/prix":"6500XAF"
+    },
+    {
+        "image":"dresses/jogg.jfif",
+        "title":"products title",
+        "description":"jogging pour homme",
+        "price/prix":"13500XAF"
+    },
+    {
+        "image":"dresses/R (1).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (1).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (2).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/R (2).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/R.png",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/R (4).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (3).jfif",
+        "title":"products title",
+        "description":"robe pour femme",
+        "price/prix":"5500XAF"
+    }
+
+]
